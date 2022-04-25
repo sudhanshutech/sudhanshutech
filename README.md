@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudhanshutech
-- 👀 I’m interested in frontend devloper,UI, photography
-- 🌱 I’m currently learning UI
+- 👀 I’m interested in web devlopment,UI, photography
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on live projects with company or want a internship
 - 📫 How to reach me Email- dasguptashivam23@gmail.com
 Instagram-  @_.sudhanshu__
