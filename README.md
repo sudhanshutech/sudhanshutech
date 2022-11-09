@@ -1,7 +1,7 @@
 - Hi 👋 My name is Sudhanshu Dasgupta
 ===================================
 
-React developer, Frontend Developer, C and C++ lanuage
+React developer, Frontend Developer, C and C++ 
 ----------------------------------------------
 
 I started learning coding on my own with online courses and vedio lectures in internet. I first started to learn C lanuage then followed by C++. Then I moved to web development and learnt html,css, javascript and followed by reactjs. I also build some projects to level up my skills.
