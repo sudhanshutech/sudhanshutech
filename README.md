@@ -8,7 +8,7 @@ I started learning coding on my own with online courses and vedio lectures in in
 
 * 🌍  I'm based in Katni, Madhya Pradesh, India
 * ✉️  You can contact me at [dasguptashivam23@gmail.com](mailto:dasguptashivam23@gmail.com)
-* 🧠  I'm learning DSA, Python
+* 🧠  I'm learning Cloud computing and DSA
 * 🤝  I'm open to collaborating on Web development Projects or UI related stuffs
 * ⚡  I also do photography
 
