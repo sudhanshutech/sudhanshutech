@@ -70,6 +70,8 @@
 
 # My Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Git Commands- That You Don&#39;t Know](https://sudhanshutech.hashnode.dev/git-commands-that-you-dont-know)
+- [Starting with Open Source](https://sudhanshutech.hashnode.dev/starting-with-open-source)
 <!-- BLOG-POST-LIST:END -->
 
 ###
