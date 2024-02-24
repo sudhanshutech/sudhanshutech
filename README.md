@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Sudhanshu Dasgupta from India<br><br>- 🔭 I’m working as Software developer Intern at Layer5<br>- 📚 I'm currently learning DevOps and Cloud native things</p>
+<p align="left">I'm Sudhanshu Dasgupta from India<br><br>- 🔭 I’m working as Software developer Intern at Layer5<br>- 📚 I'm currently learning DevOps and Cloud native things<br>- I am a open source developer and maintainer<br>- Connect with me to deep dive in open source</p>
 
 ###
 
