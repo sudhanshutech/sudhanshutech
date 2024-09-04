@@ -70,10 +70,21 @@
 </div>
 
 # My Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Git Commands- That You Don&#39;t Know](https://sudhanshutech.hashnode.dev/git-commands-that-you-dont-know)
-- [Starting with Open Source](https://sudhanshutech.hashnode.dev/starting-with-open-source)
-<!-- BLOG-POST-LIST:END -->
+<p align="left">
+   <a href="https://sudhanshutech.hashnode.dev/git-commands-that-you-dont-know" title="git-commands-that-you-dont-know"><img src="https://github.com/user-attachments/assets/ebc1000f-0654-439a-8bef-8252f4e6fa24" alt="starting-with-open-source" width="250px" align="left" /></a>
+ <a href="https://sudhanshutech.hashnode.dev/git-commands-that-you-dont-know" title="git-commands-that-you-dont-know"><strong>Git Commands- That You Don't Know</strong></a>
+<div><strong>Published on: 15 Mar 2023</strong>
+<br/>In this article, we will explore some of the most popular but unknown Git commands that can help us solve problems more efficiently and effectively. </p> <br/>
+
+  <br/>
+  <br/>
+
+<p align="left">
+<a href="https://sudhanshutech.hashnode.dev/starting-with-open-source" title="starting-with-open-source"><img src="https://github.com/user-attachments/assets/b6834321-a09a-4349-8bd1-9f4a410c6fe0" alt="git-commands-that-you-dont-know" width="250px" align="left" /></a>
+ <a href="https://sudhanshutech.hashnode.dev/starting-with-open-source" title="starting-with-open-source"><strong>Starting with Open source</strong></a>
+<div><strong>Published on: 10 Feb 2023</strong>
+<br/> A Beginner's Guide" introduces newcomers to the world of open source, covering the basics of contributing to projects, finding repositories and  highlights the benefits of community involvement, and provides step-by-step guidance for making your first contribution, empowering beginners to start their open source journey with confidence. </p> <br/>
+
 
 ###
 
