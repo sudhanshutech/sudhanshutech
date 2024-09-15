@@ -85,7 +85,24 @@
 <div><strong>Published on: 10 Feb 2023</strong>
 <br/> A Beginner's Guide" introduces newcomers to the world of open source, covering the basics of contributing to projects, finding repositories and  highlights the benefits of community involvement, and provides step-by-step guidance for making your first contribution, empowering beginners to start their open source journey with confidence. </p> <br/>
 
+<hr/>
 
+## My Open source achivements:
+
+ <a href= "https://meshery.layer5.io/user/9cb4bfce-ad8f-4a8e-8647-bb138fa07e7f?tab=badges&badge=continuous-contributor" >
+    <img width="190px" height="250px" src = "https://badges.layer5.io/assets/badges/continuous-contributor/continuous-contributor.png" alt = "Continuous Contributor" />
+  </a >
+   <a href= "https://meshery.layer5.io/user/9cb4bfce-ad8f-4a8e-8647-bb138fa07e7f?tab=badges&badge=review-rockstar" >
+    <img width="190px" height="250px" src = "https://badges.layer5.io/assets/badges/review-rockstar/review-rockstar.png" alt = "Review Rockstar" />
+  </a >
+   <a href= "https://meshery.layer5.io/user/9cb4bfce-ad8f-4a8e-8647-bb138fa07e7f?tab=badges&badge=community" >
+    <img width="190px" height="250px" src = "https://badges.layer5.io/assets/badges/community/community.png" alt = "Community" />
+  </a >
+   <a href= "https://meshery.layer5.io/user/9cb4bfce-ad8f-4a8e-8647-bb138fa07e7f?tab=badges&badge=first-share" >
+    <img width="190px" height="250px" src = "https://badges.layer5.io/assets/badges/first-share/first-share.png" alt = "Sharing is Caring" />
+  </a >
+ 
+ 
 ###
 
 ###
