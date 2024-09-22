@@ -25,7 +25,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=edo&size=30&duration=5000&color=00f7ff&background=EB00FF00&center=true&vCenter=true&width=600&lines=+Hi,+👋+I'm+Sudhanshu+Dasgupta;Frontend+Developer⚡;Open+Source+Enthusiast🥑;Cloud+Computing☁️;Exploring+DevOps💥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=edo&size=30&duration=5000&color=00f7ff&background=EB00FF00&center=true&vCenter=true&width=600&lines=+Hi,+👋+I'm+Sudhanshu+Dasgupta;Fullstack+Developer⚡;I+talk+about+Open+Source🥑;CNCF+Maintainer⛑️;Cloud+Computing☁️;Exploring+DevOps💥)](https://git.io/typing-svg)
 
 ###
 
