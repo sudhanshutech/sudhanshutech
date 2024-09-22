@@ -71,7 +71,8 @@
 
 # My Latest Blog posts
 <p align="left">
-  <a href="https://sudhanshutech.hashnode.dev/1-how-nodejs-works-behind-the-scene-series" title="how-nodejs-works-behind-the-scene-series"><img src=https://github.com/user-attachments/assets/05674082-d67e-428b-b178-5d7f9e8b8815" alt="starting-with-open-source" width="250px" align="left" /></a>
+  
+  <a href="https://sudhanshutech.hashnode.dev/1-how-nodejs-works-behind-the-scene-series" title="how-nodejs-works-behind-the-scene-series"><img src="https://github.com/user-attachments/assets/05674082-d67e-428b-b178-5d7f9e8b8815" alt="starting-with-open-source" width="250px" align="left" /></a>
  <a href="https://sudhanshutech.hashnode.dev/1-how-nodejs-works-behind-the-scene-series" title="how-nodejs-works-behind-the-scene-series"><strong>How Nodejs work- Behind The Scene Series</strong></a>
 <div><strong>Published on: 16 Sept 2023</strong>
 <br/>In this article, we will explore how asynchronous javaScript powers Node.js. </p> <br/>
