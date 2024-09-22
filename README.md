@@ -69,8 +69,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 </div>
 
-# My Blog posts
+# My Latest Blog posts
 <p align="left">
+  <a href="https://sudhanshutech.hashnode.dev/1-how-nodejs-works-behind-the-scene-series" title="how-nodejs-works-behind-the-scene-series"><img src=https://github.com/user-attachments/assets/05674082-d67e-428b-b178-5d7f9e8b8815" alt="starting-with-open-source" width="250px" align="left" /></a>
+ <a href="https://sudhanshutech.hashnode.dev/1-how-nodejs-works-behind-the-scene-series" title="how-nodejs-works-behind-the-scene-series"><strong>How Nodejs work- Behind The Scene Series</strong></a>
+<div><strong>Published on: 16 Sept 2023</strong>
+<br/>In this article, we will explore how asynchronous javaScript powers Node.js. </p> <br/>
+  
+  <br/>
+  <br/>
+  
    <a href="https://sudhanshutech.hashnode.dev/git-commands-that-you-dont-know" title="git-commands-that-you-dont-know"><img src="https://github.com/user-attachments/assets/ebc1000f-0654-439a-8bef-8252f4e6fa24" alt="starting-with-open-source" width="250px" align="left" /></a>
  <a href="https://sudhanshutech.hashnode.dev/git-commands-that-you-dont-know" title="git-commands-that-you-dont-know"><strong>Git Commands- That You Don't Know</strong></a>
 <div><strong>Published on: 15 Mar 2023</strong>
