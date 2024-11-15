@@ -1,7 +1,15 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/27588d64-c068-4e6f-80ee-049977845bb1"/>
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/0750eb04-028f-4ccd-9ffd-bd7a221b206c" width="200px"/>
+    </td>
+    <td>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=edo&size=30&duration=5000&color=00f7ff&background=EB00FF00&center=true&vCenter=true&width=600&lines=+Hi,+👋+I'm+Sudhanshu+Dasgupta;Fullstack+Developer⚡;I+talk+about+Open+Source🥑;CNCF+Maintainer⛑️;Cloud+Computing☁️;Exploring+DevOps💥" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ###
 
@@ -25,7 +33,6 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=edo&size=30&duration=5000&color=00f7ff&background=EB00FF00&center=true&vCenter=true&width=600&lines=+Hi,+👋+I'm+Sudhanshu+Dasgupta;Fullstack+Developer⚡;I+talk+about+Open+Source🥑;CNCF+Maintainer⛑️;Cloud+Computing☁️;Exploring+DevOps💥)](https://git.io/typing-svg)
 
 ###
 
