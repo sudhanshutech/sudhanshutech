@@ -36,15 +36,26 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+### 👋 Hey there, I'm Sudhanshu Dasgupta
+
+<p align="left">
+I'm a Software Engineer at <strong>Safedep</strong>, and an active <strong>Open-Source Maintainer</strong> from India. <br>
+
+💻 I work across <strong>web development</strong>, <strong>cloud-native technologies</strong>, <strong>DevOps</strong>, and love building tools that solve real-world problems.<br>
+
+🔧 I'm a core maintainer of <strong>Meshery</strong> (a CNCF open-source cloud-native management plane) and <strong>Layer5</strong>. I also contribute to several other community-driven open-source projects.<br>
+
+🌱 I'm passionate about helping others get into open source. I regularly mentor new contributors and host community calls to support collaborative growth.<br>
+
+📝 I enjoy writing blogs and advocating for open-source and cloud-native technologies, making them more accessible to developers.<br>
+
+🤝 Let's connect and talk about open source, supply chain security, frontend engineering, and building strong dev communities!
+</p><br>
+
 
 ###
 
-<p align="left">I'm Sudhanshu Dasgupta from India<br><br>- 🔭 I’m a Software developer, interested to work in web development, cloud, devops and opens source enthusisast<br>- 📚 I'm currently learning DevOps and Cloud native things<br>- I am a open source developer and maintainer<br>- Connect with me to deep dive in open source</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+# 🛠 Language and tools
 
 ###
 
@@ -74,7 +85,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-</div>
+</div><br>
 
 # My Latest Blog posts
 <p align="left">
