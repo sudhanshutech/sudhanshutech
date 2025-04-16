@@ -114,7 +114,7 @@ I'm a Software Engineer at <strong>Safedep</strong>, and an active <strong>Open-
 
 <hr/>
 
-## My Open source achivements:
+## Few Open source achivements:
 
  <a href= "https://meshery.layer5.io/user/9cb4bfce-ad8f-4a8e-8647-bb138fa07e7f?tab=badges&badge=continuous-contributor" >
     <img width="190px" height="250px" src = "https://badges.layer5.io/assets/badges/continuous-contributor/continuous-contributor.png" alt = "Continuous Contributor" />
