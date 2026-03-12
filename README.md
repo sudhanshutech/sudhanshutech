@@ -87,9 +87,3 @@ I speak and advocate on topics including:
 - 🧑‍🏫 **Mentoring** — Happy to guide contributors entering the open-source ecosystem
 
 ---
-
-<div align="center">
-
-*Built with curiosity, shipped with care.*
-
-</div>
