@@ -1,135 +1,94 @@
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/0750eb04-028f-4ccd-9ffd-bd7a221b206c" width="200px"/>
-    </td>
-    <td>
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=edo&size=30&duration=5000&color=00f7ff&background=EB00FF00&center=true&vCenter=true&width=600&lines=+Hi,+👋+I'm+Sudhanshu+Dasgupta;Fullstack+Developer⚡;I+talk+about+Open+Source🥑;CNCF+Maintainer⛑️;Cloud+Computing☁️;Exploring+DevOps💥" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-###
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/sudhanshu-dasgupta/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/SudhanshuDasgu3" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://linktr.ee/sudhanshut" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
-  </a>
+
+<img src="https://github.com/user-attachments/assets/0750eb04-028f-4ccd-9ffd-bd7a221b206c" width="120px" style="border-radius: 50%"/>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshu-dasgupta/)
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/SudhanshuDasgu3)
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/sudhanshut)
+[![Blog](https://img.shields.io/badge/Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://sudhanshutech.hashnode.dev/)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sudhanshutech.sudhanshutech)](https://github.com/sudhanshutech)
+
 </div>
 
-###
+## About Me
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sudhanshutech.sudhanshutech&"  />
-</div>
+I'm a **Software Engineer** at [Safedep](https://safedep.io), where I architect and build scalable frontend systems - from design systems to complex UI workflows in the open-source software supply chain security space.
 
-###
+Beyond engineering, I actively wear a **Developer Advocate** hat: speaking at conferences, writing technical content, mentoring contributors, and helping the developer community navigate supplu chain security and open-source ecosystems. If you've seen me at a meetup, read one of my blogs, or joined a community call - hello again 👋
 
+- 🏗️ **At Safedep** — Architecting frontend infrastructure, building component systems, and driving developer-facing tooling that makes supply chain security accessible.
+- 🎤 **As a Developer Advocate** — Representing open-source projects at conferences, writing technical blogs, running community calls, and helping developers at all stages of their journey. Check out my [talks repo](https://github.com/sudhanshutech/talks) *(pinned below)* for a full list of my sessions and presentations.
+- ⛑️ **CNCF Contributor** — Core maintainer of [Meshery](https://meshery.io) (CNCF's cloud-native management plane) and [Layer5](https://layer5.io). I care deeply about project health, contributor experience, and sustainable open-source communities.
 
-###
+---
 
-### 👋 Hey there, I'm Sudhanshu Dasgupta
+## Talks & Advocacy
 
-<p align="left">
-I'm a Software Engineer at <strong>Safedep</strong>, and an active <strong>Open-Source Maintainer</strong> from India. <br>
+> 📌 *See the pinned **talks** repository below for slides, recordings, and resources from my conference sessions and community presentations.*
 
-💻 I work across <strong>web development</strong>, <strong>cloud-native technologies</strong>, <strong>DevOps</strong>, and love building tools that solve real-world problems.<br>
+I speak and advocate on topics including:
 
-🔧 I'm a core maintainer of <strong>Meshery</strong> (a CNCF open-source cloud-native management plane) and <strong>Layer5</strong>. I also contribute to several other community-driven open-source projects.<br>
+- Open source contribution & community building
+- Software supply chain security (with Safedep)
+- Cloud-native architecture & Kubernetes ecosystem
+- Frontend engineering at scale
+- DevOps culture and developer productivity
 
-🌱 I'm passionate about helping others get into open source. I regularly mentor new contributors and host community calls to support collaborative growth.<br>
+---
 
-📝 I enjoy writing blogs and advocating for open-source and cloud-native technologies, making them more accessible to developers.<br>
-
-🤝 Let's connect and talk about open source, supply chain security, frontend engineering, and building strong dev communities!
-</p><br>
-
-
-###
-
-# 🛠 Language and tools
-
-###
+## Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mui/007FFF" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/sass/CC6699" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-</div><br>
 
-# My Latest Blog posts
-<p align="left">
-  
-  <a href="https://sudhanshutech.hashnode.dev/1-how-nodejs-works-behind-the-scene-series" title="how-nodejs-works-behind-the-scene-series"><img src="https://github.com/user-attachments/assets/05674082-d67e-428b-b178-5d7f9e8b8815" alt="starting-with-open-source" width="250px" align="left" /></a>
- <a href="https://sudhanshutech.hashnode.dev/1-how-nodejs-works-behind-the-scene-series" title="how-nodejs-works-behind-the-scene-series"><strong>How Nodejs work- Behind The Scene Series</strong></a>
-<div><strong>Published on: 16 Sept 2024</strong>
-<br/>In this article, we will explore how asynchronous javaScript powers Node.js. </p> <br/>
-  
-  <br/>
-  <br/>
-  
-   <a href="https://sudhanshutech.hashnode.dev/git-commands-that-you-dont-know" title="git-commands-that-you-dont-know"><img src="https://github.com/user-attachments/assets/ebc1000f-0654-439a-8bef-8252f4e6fa24" alt="starting-with-open-source" width="250px" align="left" /></a>
- <a href="https://sudhanshutech.hashnode.dev/git-commands-that-you-dont-know" title="git-commands-that-you-dont-know"><strong>Git Commands- That You Don't Know</strong></a>
-<div><strong>Published on: 15 Mar 2023</strong>
-<br/>In this article, we will explore some of the most popular but unknown Git commands that can help us solve problems more efficiently and effectively. </p> <br/>
+**Frontend & Web**
 
-  <br/>
-  <br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-<p align="left">
-<a href="https://sudhanshutech.hashnode.dev/starting-with-open-source" title="starting-with-open-source"><img src="https://github.com/user-attachments/assets/b6834321-a09a-4349-8bd1-9f4a410c6fe0" alt="git-commands-that-you-dont-know" width="250px" align="left" /></a>
- <a href="https://sudhanshutech.hashnode.dev/starting-with-open-source" title="starting-with-open-source"><strong>Starting with Open source</strong></a>
-<div><strong>Published on: 10 Feb 2023</strong>
-<br/> A Beginner's Guide" introduces newcomers to the world of open source, covering the basics of contributing to projects, finding repositories and  highlights the benefits of community involvement, and provides step-by-step guidance for making your first contribution, empowering beginners to start their open source journey with confidence. </p> <br/>
+**Cloud-Native & DevOps**
 
-<hr/>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Few Open source achivements:
+**Languages**
 
- <a href= "https://meshery.layer5.io/user/9cb4bfce-ad8f-4a8e-8647-bb138fa07e7f?tab=badges&badge=continuous-contributor" >
-    <img width="190px" height="250px" src = "https://badges.layer5.io/assets/badges/continuous-contributor/continuous-contributor.png" alt = "Continuous Contributor" />
-  </a >
-   <a href= "https://meshery.layer5.io/user/9cb4bfce-ad8f-4a8e-8647-bb138fa07e7f?tab=badges&badge=review-rockstar" >
-    <img width="190px" height="250px" src = "https://badges.layer5.io/assets/badges/review-rockstar/review-rockstar.png" alt = "Review Rockstar" />
-  </a >
-   <a href= "https://meshery.layer5.io/user/9cb4bfce-ad8f-4a8e-8647-bb138fa07e7f?tab=badges&badge=community" >
-    <img width="190px" height="250px" src = "https://badges.layer5.io/assets/badges/community/community.png" alt = "Community" />
-  </a >
-   <a href= "https://meshery.layer5.io/user/9cb4bfce-ad8f-4a8e-8647-bb138fa07e7f?tab=badges&badge=first-share" >
-    <img width="190px" height="250px" src = "https://badges.layer5.io/assets/badges/first-share/first-share.png" alt = "Sharing is Caring" />
-  </a >
- 
- 
-###
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-###
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![sudhanshutech's Stats](https://github-readme-stats.vercel.app/api?username=sudhanshutech&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![sudhanshutech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudhanshutech&theme=vue-dark&hide_border=false)
+![sudhanshutech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshutech&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+
+</div>
+
+## Open to
+
+- 🎤 **Conference talks** — Invite me to speak at your meetup, conference, or community event
+- 🤝 **Open source collaboration** — PRs, discussions, and new project ideas welcome
+- ✍️ **Guest posts & technical writing** — Let's create content together
+- 🧑‍🏫 **Mentoring** — Happy to guide contributors entering the open-source ecosystem
+
+---
+
+<div align="center">
+
+*Built with curiosity, shipped with care.*
+
+</div>
