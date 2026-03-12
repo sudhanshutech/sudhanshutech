@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/0750eb04-028f-4ccd-9ffd-bd7a221b206c" width="120px" style="border-radius: 50%"/>
+<img src="https://github.com/user-attachments/assets/046113e6-a612-4b8c-aedd-3fa97cf4c7cb" width="120px" style="border-radius: 50%"/>
 
 <br/>
 
@@ -68,7 +68,7 @@ I speak and advocate on topics including:
 
 ---
 
-## GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
