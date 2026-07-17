@@ -19,9 +19,9 @@ I'm a **Software Engineer** at [Safedep](https://safedep.io), where I architect 
 
 Beyond engineering, I actively wear a **Developer Advocate** hat: speaking at conferences, writing technical content, mentoring contributors, and helping the developer community navigate supplu chain security and open-source ecosystems. If you've seen me at a meetup, read one of my blogs, or joined a community call - hello again 👋
 
-- 🏗️ **At Safedep** — Architecting frontend infrastructure, building component systems, and driving developer-facing tooling that makes supply chain security accessible.
-- 🎤 **As a Developer Advocate** — Representing open-source projects at conferences, writing technical blogs, running community calls, and helping developers at all stages of their journey. Check out my [talks repo](https://github.com/sudhanshutech/talks) *(pinned below)* for a full list of my sessions and presentations.
-- ⛑️ **CNCF Contributor** — Core maintainer of [Meshery](https://meshery.io) (CNCF's cloud-native management plane) and [Layer5](https://layer5.io). I care deeply about project health, contributor experience, and sustainable open-source communities.
+- 🏗️ **At Safedep** - Architecting frontend infrastructure, building component systems, and driving developer-facing tooling that makes supply chain security accessible.
+- 🎤 **As a Developer Advocate** - Representing open-source projects at conferences, writing technical blogs, running community calls, and helping developers at all stages of their journey. Check out my [talks repo](https://github.com/sudhanshutech/talks) *(pinned below)* for a full list of my sessions and presentations.
+- ⛑️ **CNCF Contributor** - Core maintainer of [Meshery](https://meshery.io) (CNCF's cloud-native management plane) and [Layer5](https://layer5.io). I care deeply about project health, contributor experience, and sustainable open-source communities.
 
 ---
 
@@ -36,24 +36,5 @@ I speak and advocate on topics including:
 - Cloud-native architecture & Kubernetes ecosystem
 - Frontend engineering at scale
 - DevOps culture and developer productivity
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-![sudhanshutech's Stats](https://github-readme-stats.vercel.app/api?username=sudhanshutech&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![sudhanshutech's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudhanshutech&theme=vue-dark&hide_border=false)
-![sudhanshutech's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshutech&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-
-</div>
-
-## Open to
-
-- 🎤 **Conference talks** — Invite me to speak at your meetup, conference, or community event
-- 🤝 **Open source collaboration** — PRs, discussions, and new project ideas welcome
-- ✍️ **Guest posts & technical writing** — Let's create content together
-- 🧑‍🏫 **Mentoring** — Happy to guide contributors entering the open-source ecosystem
 
 ---
